@@ -1,4 +1,5 @@
 # Dio desafio github
+
 Para criar apenas um repositório no github com as instruções dadas.
 
 ## 🚀 Começando
@@ -7,6 +8,7 @@ Para fins demonstrativos da criação de um repositório no github, foi usado co
 Consulte **Implantação** para saber como implantar o projeto desenvolvido.
 
 ### 📋 Pré-requisitos
+
 Para a inicialização do projeto na sua maquina é necessario algumas bibliotecas.do python3.
 
 
@@ -23,12 +25,10 @@ Se seu sistema tiver no PATH o pip (gereciamento de bibliotecas do python), bast
 ```
 pip install pytube
 ```
-
-## ⚙️ Executando os testes
-
-Explicar como executar os testes automatizados para este sistema.
+tomatizados para este sistema.
 
 ## 📦 Desenvolvimento
+
 Esse projeto foi desenvolvido a biblioteca do python, pytube, que está em constantes atualizações. Caso você tenha algum erro no código, certifique-se de usar sempre a versão mais recente da [biblioteca](https://pytube.io/en/latest/).
 
 
